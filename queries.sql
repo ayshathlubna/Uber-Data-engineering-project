@@ -20,5 +20,5 @@ on p.passenger_count_id = f.passenger_count_id
 group by p.passenger_count
 order by total_trips desc;
 
--- Find the average fare amount by hour of day
+
 
